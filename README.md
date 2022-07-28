@@ -1,14 +1,14 @@
 # AlgoGovernance
 An economically efficient on-chain governance dApp based on Algorand
 
-Voting, result tallying and querying, all on-chain.
+Voting, result tallying and querying, all on-chain
 
 ## How it works
 
 During the voting period, voters send their `governance tokens` to the governance dApp together with their vote.
 The governance tokens are locked in the dApp and the voter receives `receipt tokens` in exchange.
 The dApp updates the vote count in its global state.
-Once the voting period ends, receipt tokens can be exchange back for `governance tokens`.
+Once the voting period ends, receipt tokens can be exchanged back for `governance tokens`.
 Also, any dApp can query the voting result from the governance dApp.
 
 ## Details
