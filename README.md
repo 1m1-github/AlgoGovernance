@@ -1,5 +1,5 @@
 # AlgoGovernance
-An on-chain governance dApp based on Algorand
+An economically efficient on-chain governance dApp based on Algorand
 
 Voting, result tallying and querying, all on-chain.
 
